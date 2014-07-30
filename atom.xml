@@ -4,7 +4,7 @@
   <title><![CDATA[郭天龙的个人博客]]></title>
   <link href="http://DeanGuo.github.io/atom.xml" rel="self"/>
   <link href="http://DeanGuo.github.io/"/>
-  <updated>2014-07-30T09:25:53+08:00</updated>
+  <updated>2014-07-30T09:35:32+08:00</updated>
   <id>http://DeanGuo.github.io/</id>
   <author>
     <name><![CDATA[郭天龙]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第一篇博客]]></title>
+    <link href="http://DeanGuo.github.io/blog/2014/07/30/di-%5B%3F%5D-pian-bo-ke/"/>
+    <updated>2014-07-30T09:30:16+08:00</updated>
+    <id>http://DeanGuo.github.io/blog/2014/07/30/di-[?]-pian-bo-ke</id>
+    <content type="html"><![CDATA[<p>希望这是一个好的开始！</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Third]]></title>

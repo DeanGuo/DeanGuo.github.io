@@ -3,6 +3,12 @@
   
   
   <url>
+    <loc>http://DeanGuo.github.io/blog/2014/07/30/di-%5B%3F%5D-pian-bo-ke/</loc>
+    <lastmod>2014-07-30T09:30:16+08:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://DeanGuo.github.io/blog/2014/07/29/third/</loc>
     <lastmod>2014-07-29T17:05:22+08:00</lastmod>
     <priority>0.8</priority>
@@ -11,14 +17,14 @@
   
   <url>
     <loc>http://DeanGuo.github.io/blog/archives/</loc>
-    <lastmod>2014-07-30T09:25:53+08:00</lastmod>
+    <lastmod>2014-07-30T09:35:32+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://DeanGuo.github.io/</loc>
-    <lastmod>2014-07-30T09:25:53+08:00</lastmod>
+    <lastmod>2014-07-30T09:35:32+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
